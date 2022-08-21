@@ -1,0 +1,39 @@
+<img src="dancin.gif" width="300" height="300" class="center">
+
+ <audio controls autoplay>
+  <source src="bgs.mp3" type="audio/mpeg">
+</audio> 
+
+<style>
+img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body {
+  animation: 1000ms ease-in-out infinite color-change;
+}
+
+@keyframes color-change {
+  0% {
+    background-color: teal;
+  }
+  20% {
+    background-color: gold;
+  }
+  40% {
+    background-color: indianred;
+  }
+  60% {
+    background-color: violet;
+  }
+  80% {
+    background-color: green;
+  }
+  100% {
+    background-color: teal;
+  }
+}
+</style>
