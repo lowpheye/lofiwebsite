@@ -1,6 +1,3 @@
-saul goodman link (done)
-open sourcing this website (everyone should be able to help!)
 some website that interacts with midi on a way or another
-linking to gato pelon itchio game
 trailing cursor (slayyy) (wont work for some reason)
 guestbook
