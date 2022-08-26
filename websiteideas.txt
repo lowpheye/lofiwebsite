@@ -1,3 +1,2 @@
 some website that interacts with midi on a way or another
-trailing cursor (slayyy) (wont work for some reason)
 guestbook
